@@ -1,6 +1,0 @@
-[submodule "daniel-test-sps-server"]
-	path = daniel-test-sps-server
-	url = https://github.com/dbbitz/daniel-test-sps-server.git
-[submodule "daniel-test-sps-react"]
-	path = daniel-test-sps-react
-	url = https://github.com/dbbitz/daniel-test-sps-react.git
